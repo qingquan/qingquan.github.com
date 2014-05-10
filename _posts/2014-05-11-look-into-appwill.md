@@ -4,6 +4,8 @@ title: "Look into Appwill"
 description: "An analysis of Appwill, one mobile team in China"
 category: Mobile
 tags: [China, Appwill, Mobile Team]
+---
+{% include JB/setup %}
 
 移动是当下互联网的趋势之一。APP Store給予了开发者前所未有的机会，开发者们把APP上传到这个*集市*上，期待有所收获。
 自2008年iPhone手机问市以来，越来越多的开发者涌向APP Store这个大集市。有人起个大早，赶了个晚集。但也有人在恰当的时机，收的鼓鼓包囊。
@@ -42,5 +44,3 @@ tags: [China, Appwill, Mobile Team]
 ##Summary##
 Appwill在4年间发布过31款产品，类型涵盖*壁纸*、*笑话*、*图片编辑*、*工具*（下载）等。
 最终该团队聚焦在*壁纸*、*限时免费应用*、*Apple产品社区*3个方面。
----
-{% include JB/setup %}
