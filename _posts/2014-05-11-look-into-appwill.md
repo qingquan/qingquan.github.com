@@ -25,8 +25,7 @@ tags: [China, Appwill, MobileTeam]
 - [App Store产品列表](http://www.appannie.com/apps/ios/publisher/demiao-lin/)
 
 ##Appwill产品列表##
-- [产品明细表](http://www.clipular.com/c/5020976647503872.png?k=EpMxHxt1ZRgBp42olPzkLbo_yGk)
-- ![产品明细表](/assets/appwill_product_list.png)
+- 产品明细表![产品明细表](/assets/images/appwill_product_list.png)
 - 总结：4年，31款产品，总下载量3141.1K。
 
 
